@@ -14,6 +14,7 @@ Feature: Cucumber Basket
       | 2       | 4    | 6     |
       | 0       | 3    | 3     |
       | 5       | 5    | 10    |
+      | 1       | 4    | 5     |
 
 
   Scenario: Remove cucumbers from a basket
